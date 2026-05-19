@@ -1,0 +1,2 @@
+#Para ignorar ficheros en el git status 
+# **/. NombreArchivo
